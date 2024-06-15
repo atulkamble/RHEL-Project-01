@@ -5,6 +5,8 @@ This project focusing on setting up a simple web server using Apache on Red Hat 
 
 ### Clone Project to Your Machine 
 ```
+git clone https://github.com/atulkamble/RHEL-Project-01.git
+cd RHEL-Project-01
 ```
 
 ### Project: Setting up a Basic Web Server with Apache on RHEL
