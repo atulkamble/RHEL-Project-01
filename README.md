@@ -3,6 +3,10 @@ Basic RHEL Project
 
 This project focusing on setting up a simple web server using Apache on Red Hat Enterprise Linux (RHEL). This project will guide you through installing Apache, configuring a basic website, and testing its functionality.
 
+### Clone Project to Your Machine 
+```
+```
+
 ### Project: Setting up a Basic Web Server with Apache on RHEL
 
 #### Step 1: Create EC2 Instance | RHEL | SSH 
